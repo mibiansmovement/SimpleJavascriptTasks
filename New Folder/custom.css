@@ -1,0 +1,17 @@
+
+
+body{
+	background-color: #000; color: #fff; font-family: verdana, 'times new roman', 'comic sans';}
+h1	{
+	padding: 5px; margin: 3px; border-radius: 30px;}
+form{
+	background-color: #fff; height: 300px; border-radius: 30px; margin-top: 30px;}
+p{
+	color: #000; margin-top: 10px; padding-top: 30px;}
+b{
+			color: #000;
+		}
+.input{
+	margin-top: 10px; border-radius: 20px;
+}
+.container{text-align: center;}
